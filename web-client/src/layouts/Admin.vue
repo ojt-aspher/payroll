@@ -4,7 +4,7 @@
       <v-toolbar-title>
         <v-icon class="mr-1" large>mdi-file</v-icon>
         <span>
-          Jhana Payroll Systems
+          Jhana Payroll System
         </span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
